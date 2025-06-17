@@ -4,7 +4,6 @@ import "./index.css";
 import Layout from "./components/Layout";
 import {
   createBrowserRouter,
-  createRoutesFromChildren,
   createRoutesFromElements,
   Route,
   RouterProvider,
